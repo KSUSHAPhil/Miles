@@ -5,6 +5,6 @@ public class Main {
         int rubForBonusMile = 20;
 
         int totalMiles = ticketPrice / rubForBonusMile;
-        System.out.println("Ваши мили - "+totalMiles);
+        System.out.println("Ваши мили - " + totalMiles);
     }
 }
